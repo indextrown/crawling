@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+Flask
+Flask-Caching
+apscheduler
+pandas
+selenium
+webdriver-manager
+psutil
